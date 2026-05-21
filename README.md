@@ -81,3 +81,5 @@ Kernal, then it will show the operating system name + information like
 version, etc.
 )
 
+I play games such as TIS-100, Hacknet, Upload Labs, and Billburn even though 
+they are games, they help me with broaden my view on software engineer and cyber security.
