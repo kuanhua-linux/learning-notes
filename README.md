@@ -43,7 +43,7 @@ inside the editor:
 echo "=== You Shall You Thy Truth! ==="
 echo "Hello, there - General Kenobi"
 
-uname -a  (give the operating system information such as kernal, structure or 
+uname -a  (give the operating system information such as kernel, structure or 
 architecture, version, and machine information.
  For example: Linux Jake 6.12.5-ubuntu x86_64/linux)
 
@@ -74,12 +74,13 @@ Hostname shows your computer name or network name for example:
 your computer name is Gnorlia.
 
 so when I type hostname, it will output mac123 because it is the name of the 
-device or brand with numbers.
+computer.
 
 uname shows operating system software-based, if you are using Ubuntu linux or 
-Kernal, then it will show the operating system name + information like
+Kernel, then it will show the operating system name + information like
 version, etc.
 )
 
 I play games such as TIS-100, Hacknet, Upload Labs, and Billburn even though 
-they are games, they help me with broaden my view on software engineer and cyber security.
+they are games, they help broaden my understanding of software engineer and 
+cyber security.
