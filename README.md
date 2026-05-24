@@ -1,3 +1,4 @@
+
 Here is what I know about software engineering, cyber security, and networking
 from online resource #self-learn.
 
@@ -84,3 +85,7 @@ version, etc.
 I play games such as TIS-100, Hacknet, Upload Labs, and Billburn even though 
 they are games, they help broaden my understanding of software engineer and 
 cyber security.
+
+# learning-notes
+Documenting my self-learning journey in Linux, networking, scripting, and software engineering.
+
