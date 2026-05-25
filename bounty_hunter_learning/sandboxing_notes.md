@@ -15,8 +15,8 @@ Example:
 sudo apt install Firefox
 ```
 
-fails because Linux systems are case-sensitive. Because Linux manager treats 
-uppercase and lowercase differently, the package name 'Firefox' could not be
+fails because Linux systems are case-sensitive. Because Linux package manager
+treats uppercase and lowercase differently, the package name 'Firefox' could not be
 found.
 
 
@@ -34,7 +34,7 @@ sudo apt install firefox
 firejail firefox
 ```
 
-# What use is firejail?
+# What is Firejail used for?
 
 It is useful for:
 -scripts
@@ -71,7 +71,32 @@ firejail libreoffice suspicious.docx
 ```
 
 note: most of the file or executable, look normal, and in today's technology
-AI can make perfect email, phishing, and those malicious agent use human
- socialogy. So be careful downloading malicious file on the internet, and 
-work places.
+AI can make perfect email, phishing, and those malicious actors often exploit
+human psychology and trust. So be careful downloading malicious file on the
+internet and workplaces.
  
+##AI-Assisted Social Engineering
+
+AI tools can imitate:
+-voices
+-writing styles
+-emails
+-phone calls
+
+For example:
+
+An attacker could imitate a company executive or manager using AI-generated 
+voice cloning.
+
+An employee might trust the fake request because:
+-the voice sounds familiar
+-the person appears authoritative
+-the request sounds urgent
+
+This can lead to:
+-credential theft
+-data leaks
+-unauthorized access
+-financial scams
+
+attackers often exploit human trust more than technical vulnerabilities.
