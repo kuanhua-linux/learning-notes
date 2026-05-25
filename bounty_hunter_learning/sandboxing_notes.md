@@ -34,8 +34,44 @@ sudo apt install firefox
 firejail firefox
 ```
 
-### Purpose
-- reduce system exposure
-- isolate applications
-- safer experimentation
-- lightweight alternative to large virtual machines
+# What use is firejail?
+
+It is useful for:
+-scripts
+-unknown binaries
+-testing tools 
+-isolated applications
+-research environment 
+-reducing exposure
+-lightweight alternative to large virtual machines
+-safer experiment 
+
+
+Example:
+
+### For suspicious python file
+
+```bash
+firejail python3 sus_script.py
+
+```
+
+### for mp4 
+
+VLC stands for Video LAN Client.
+
+```bash
+firejail vlc weird_video.mp4
+```
+
+### suspicious  docx
+
+```bash
+firejail libreoffice suspicious.docx
+```
+
+note: most of the file or executable, look normal, and in today's technology
+AI can make perfect email, phishing, and those malicious agent use human
+ socialogy. So be careful downloading malicious file on the internet, and 
+work places.
+ 
